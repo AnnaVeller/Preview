@@ -1,0 +1,234 @@
+{
+  "frames": {
+    "pic_done10.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 385
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 385
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 385
+      }
+    },
+    "pic_done11.png": {
+      "frame": {
+        "x": 498,
+        "y": 0,
+        "w": 498,
+        "h": 380
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 380
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 380
+      }
+    },
+    "pic_done12.png": {
+      "frame": {
+        "x": 498,
+        "y": 380,
+        "w": 498,
+        "h": 383
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 383
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 383
+      }
+    },
+    "pic_done13.png": {
+      "frame": {
+        "x": 0,
+        "y": 763,
+        "w": 498,
+        "h": 383
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 383
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 383
+      }
+    },
+    "pic_done14.png": {
+      "frame": {
+        "x": 498,
+        "y": 763,
+        "w": 498,
+        "h": 383
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 383
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 383
+      }
+    },
+    "pic_done15.png": {
+      "frame": {
+        "x": 996,
+        "y": 0,
+        "w": 498,
+        "h": 385
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 385
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 385
+      }
+    },
+    "pic_done16.png": {
+      "frame": {
+        "x": 996,
+        "y": 385,
+        "w": 498,
+        "h": 385
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 385
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 385
+      }
+    },
+    "pic_done17.png": {
+      "frame": {
+        "x": 996,
+        "y": 770,
+        "w": 498,
+        "h": 383
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 383
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 383
+      }
+    },
+    "pic_done18.png": {
+      "frame": {
+        "x": 0,
+        "y": 1153,
+        "w": 498,
+        "h": 390
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 390
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 390
+      }
+    },
+    "pic_done19.png": {
+      "frame": {
+        "x": 1494,
+        "y": 0,
+        "w": 445,
+        "h": 498
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 445,
+        "h": 498
+      },
+      "sourceSize": {
+        "w": 445,
+        "h": 498
+      }
+    },
+    "pic_done20.png": {
+      "frame": {
+        "x": 498,
+        "y": 1153,
+        "w": 498,
+        "h": 390
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 390
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 390
+      }
+    }
+  },
+  "meta": {
+    "version": "1.0",
+    "image": "pics2_done.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1939,
+      "h": 1543
+    },
+    "scale": "1"
+  }
+}
