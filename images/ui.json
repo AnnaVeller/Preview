@@ -363,7 +363,7 @@
   },
   "meta": {
     "version": "1.0",
-    "image": "ui.png",
+    "image": "ui.webp",
     "format": "RGBA8888",
     "size": {
       "w": 1356,

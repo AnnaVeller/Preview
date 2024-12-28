@@ -563,7 +563,7 @@
   },
   "meta": {
     "version": "1.0",
-    "image": "pieces.png",
+    "image": "pieces.webp",
     "format": "RGBA8888",
     "size": {
       "w": 1966,
