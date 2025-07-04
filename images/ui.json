@@ -40,210 +40,10 @@
         "h": 172
       }
     },
-    "cell.png": {
-      "frame": {
-        "x": 349,
-        "y": 1,
-        "w": 105,
-        "h": 105
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 105,
-        "h": 105
-      },
-      "sourceSize": {
-        "w": 105,
-        "h": 105
-      }
-    },
-    "cellBlue.png": {
-      "frame": {
-        "x": 456,
-        "y": 1,
-        "w": 105,
-        "h": 105
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 105,
-        "h": 105
-      },
-      "sourceSize": {
-        "w": 105,
-        "h": 105
-      }
-    },
-    "cellDarkOrchid.png": {
-      "frame": {
-        "x": 563,
-        "y": 1,
-        "w": 105,
-        "h": 105
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 105,
-        "h": 105
-      },
-      "sourceSize": {
-        "w": 105,
-        "h": 105
-      }
-    },
-    "cellDeepPink.png": {
-      "frame": {
-        "x": 670,
-        "y": 1,
-        "w": 105,
-        "h": 105
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 105,
-        "h": 105
-      },
-      "sourceSize": {
-        "w": 105,
-        "h": 105
-      }
-    },
-    "cellGold.png": {
-      "frame": {
-        "x": 349,
-        "y": 108,
-        "w": 105,
-        "h": 105
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 105,
-        "h": 105
-      },
-      "sourceSize": {
-        "w": 105,
-        "h": 105
-      }
-    },
-    "cellGreen.png": {
-      "frame": {
-        "x": 456,
-        "y": 108,
-        "w": 105,
-        "h": 105
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 105,
-        "h": 105
-      },
-      "sourceSize": {
-        "w": 105,
-        "h": 105
-      }
-    },
-    "cellLight.png": {
-      "frame": {
-        "x": 563,
-        "y": 108,
-        "w": 117,
-        "h": 117
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 117,
-        "h": 117
-      },
-      "sourceSize": {
-        "w": 117,
-        "h": 117
-      }
-    },
-    "cellLime.png": {
-      "frame": {
-        "x": 682,
-        "y": 108,
-        "w": 105,
-        "h": 105
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 105,
-        "h": 105
-      },
-      "sourceSize": {
-        "w": 105,
-        "h": 105
-      }
-    },
-    "cellMaroon.png": {
-      "frame": {
-        "x": 1,
-        "y": 215,
-        "w": 105,
-        "h": 105
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 105,
-        "h": 105
-      },
-      "sourceSize": {
-        "w": 105,
-        "h": 105
-      }
-    },
-    "cellOrange.png": {
-      "frame": {
-        "x": 108,
-        "y": 215,
-        "w": 105,
-        "h": 105
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 105,
-        "h": 105
-      },
-      "sourceSize": {
-        "w": 105,
-        "h": 105
-      }
-    },
     "closeButton.png": {
       "frame": {
-        "x": 215,
-        "y": 215,
+        "x": 349,
+        "y": 1,
         "w": 105,
         "h": 105
       },
@@ -262,8 +62,8 @@
     },
     "hand.png": {
       "frame": {
-        "x": 322,
-        "y": 227,
+        "x": 456,
+        "y": 1,
         "w": 300,
         "h": 300
       },
@@ -282,8 +82,8 @@
     },
     "ic_rules.png": {
       "frame": {
-        "x": 682,
-        "y": 215,
+        "x": 1,
+        "y": 303,
         "w": 96,
         "h": 96
       },
@@ -302,8 +102,8 @@
     },
     "ic_settings.png": {
       "frame": {
-        "x": 624,
-        "y": 313,
+        "x": 99,
+        "y": 303,
         "w": 96,
         "h": 96
       },
@@ -322,8 +122,8 @@
     },
     "mistake.png": {
       "frame": {
-        "x": 777,
-        "y": 1,
+        "x": 197,
+        "y": 303,
         "w": 55,
         "h": 55
       },
@@ -342,7 +142,7 @@
     },
     "rocket.png": {
       "frame": {
-        "x": 834,
+        "x": 758,
         "y": 1,
         "w": 400,
         "h": 700
@@ -446,7 +246,7 @@
     "image": "ui.png",
     "format": "RGBA8888",
     "size": {
-      "w": 1235,
+      "w": 1159,
       "h": 862
     },
     "scale": "1"

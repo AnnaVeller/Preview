@@ -1,0 +1,214 @@
+{
+  "frames": {
+    "cell.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 105,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 105
+      }
+    },
+    "cellBlue.png": {
+      "frame": {
+        "x": 108,
+        "y": 1,
+        "w": 105,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 106
+      }
+    },
+    "cellGreen.png": {
+      "frame": {
+        "x": 215,
+        "y": 1,
+        "w": 105,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 106
+      }
+    },
+    "cellLight.png": {
+      "frame": {
+        "x": 1,
+        "y": 109,
+        "w": 117,
+        "h": 117
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 117,
+        "h": 117
+      }
+    },
+    "cellLilac.png": {
+      "frame": {
+        "x": 120,
+        "y": 109,
+        "w": 105,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 106
+      }
+    },
+    "cellLime.png": {
+      "frame": {
+        "x": 227,
+        "y": 109,
+        "w": 105,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 106
+      }
+    },
+    "cellOrange.png": {
+      "frame": {
+        "x": 120,
+        "y": 217,
+        "w": 105,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 106
+      }
+    },
+    "cellPink.png": {
+      "frame": {
+        "x": 227,
+        "y": 217,
+        "w": 105,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 106
+      }
+    },
+    "cellRed.png": {
+      "frame": {
+        "x": 322,
+        "y": 1,
+        "w": 105,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 106
+      }
+    },
+    "cellYellow.png": {
+      "frame": {
+        "x": 334,
+        "y": 109,
+        "w": 105,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 105,
+        "h": 106
+      }
+    }
+  },
+  "meta": {
+    "version": "1.0",
+    "image": "cells.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 440,
+      "h": 324
+    },
+    "scale": "1"
+  }
+}
